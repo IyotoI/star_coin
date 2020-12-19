@@ -11,6 +11,7 @@
 	position: relative;
 	transform-style: preserve-3d;
 	transition: 2s;
+	border-radius: 8rem;
 }
 
 .carta:hover {
